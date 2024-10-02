@@ -1,0 +1,6 @@
+# Composer dependencies
+vendor/
+
+# XAMPP specific
+*.log
+*.sql
